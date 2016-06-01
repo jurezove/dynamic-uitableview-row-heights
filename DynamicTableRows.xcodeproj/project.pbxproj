@@ -159,6 +159,7 @@
 		258664841B6F435600BA1CE9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Candy Code";
 				TargetAttributes = {
@@ -415,6 +416,7 @@
 				258664AD1B6F435600BA1CE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		258664AE1B6F435600BA1CE9 /* Build configuration list for PBXNativeTarget "DynamicTableRowsTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +425,7 @@
 				258664B01B6F435600BA1CE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
