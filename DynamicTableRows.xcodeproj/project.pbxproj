@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		257209CC1CFF72CA00D910EC /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 257209C91CFF72CA00D910EC /* OpenSans-ExtraBold.ttf */; };
+		257209CD1CFF72CA00D910EC /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 257209CA1CFF72CA00D910EC /* OpenSans-Light.ttf */; };
+		257209CE1CFF72CA00D910EC /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 257209CB1CFF72CA00D910EC /* OpenSans-Regular.ttf */; };
 		258664921B6F435600BA1CE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258664911B6F435600BA1CE9 /* AppDelegate.swift */; };
 		258664971B6F435600BA1CE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 258664951B6F435600BA1CE9 /* Main.storyboard */; };
 		258664991B6F435600BA1CE9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 258664981B6F435600BA1CE9 /* Images.xcassets */; };
@@ -27,6 +30,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		257209C91CFF72CA00D910EC /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		257209CA1CFF72CA00D910EC /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		257209CB1CFF72CA00D910EC /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
 		2586648C1B6F435600BA1CE9 /* DynamicTableRows.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicTableRows.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		258664901B6F435600BA1CE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		258664911B6F435600BA1CE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -93,6 +99,9 @@
 		2586648F1B6F435600BA1CE9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				257209C91CFF72CA00D910EC /* OpenSans-ExtraBold.ttf */,
+				257209CA1CFF72CA00D910EC /* OpenSans-Light.ttf */,
+				257209CB1CFF72CA00D910EC /* OpenSans-Regular.ttf */,
 				258664901B6F435600BA1CE9 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -199,6 +208,9 @@
 				258664971B6F435600BA1CE9 /* Main.storyboard in Resources */,
 				2586649C1B6F435600BA1CE9 /* LaunchScreen.xib in Resources */,
 				258664991B6F435600BA1CE9 /* Images.xcassets in Resources */,
+				257209CD1CFF72CA00D910EC /* OpenSans-Light.ttf in Resources */,
+				257209CE1CFF72CA00D910EC /* OpenSans-Regular.ttf in Resources */,
+				257209CC1CFF72CA00D910EC /* OpenSans-ExtraBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
